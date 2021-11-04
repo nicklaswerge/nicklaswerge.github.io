@@ -11,6 +11,6 @@ redirect_from:
 I am a Ph.D student at Laboratoire de Probabilités, Statistique et Modélisation [LPSM](https://www.lpsm.paris "LPSM"), Sorbonne Université. 
 
 ## Research interest
-Online learning
+Machine learning, Online learning, Time series
 
 
