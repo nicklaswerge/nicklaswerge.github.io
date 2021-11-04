@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile]({{author.googlescholar}} "Nicklas Werge") 
+You can also find my articles on my [Google Scholar profile](author.googlescholar "Nicklas Werge") 
 
 {% include base_path %}
 
