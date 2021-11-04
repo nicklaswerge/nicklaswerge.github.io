@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
   location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en"
   email            : "nicklas.werge@upmc.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
