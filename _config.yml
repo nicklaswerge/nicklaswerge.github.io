@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicklas Werge"
 title_separator          : "-"
 name                     : &name "Nicklas Werge"
-description              : &description "PhD student at Sorbonne Université, LPSM"
+description              : &description "PhD student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
 url                      : https://nicklaswerge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicklaswerge/nicklaswerge.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nicklas Werge"
   avatar           : "profile.png"
-  bio              : "PhD student at Sorbonne Université, LPSM"
+  bio              : "PhD student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
   location         : "Paris, France"
-  employer         : "https://www.lpsm.paris"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Sorbonne Université"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en"
   email            : "nicklas.werge@upmc.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : #"https://www.linkedin.com/in/nicklas-werge-925789b0"
+  orcid            : #"http://orcid.org/0000-0001-9906-364X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
