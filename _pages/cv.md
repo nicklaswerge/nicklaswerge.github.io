@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * AI Research Scientist, Advestis, 2019-2020
-* Quantitative Analyst, Nordea, 2016-2019
+* Quantitative Analyst, Nordea Asset Management, 2016-2019
 * Teaching Assistent, University of Copenhagen, 2015-2016
 
 Publications
