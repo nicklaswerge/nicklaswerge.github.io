@@ -16,26 +16,22 @@ redirect_from:
   * Supervisor: Olivier Wintenberger 
 * B.S. in Mathematics-Economics, University of Copenhagen, 2014
 
-Work experience
-======
+## Work experience
 * AI Research Scientist, Advestis, 2019-2020
 * Quantitative Analyst, Nordea Asset Management, 2016-2019
 * Teaching Assistent, University of Copenhagen, 2015-2016
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
