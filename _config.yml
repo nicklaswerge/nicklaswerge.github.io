@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
   location         : "Paris, France"
-  employer         : [link](http://github.com "LPSM")"Sorbonne Université"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en"
   email            : "nicklas.werge@upmc.fr"
