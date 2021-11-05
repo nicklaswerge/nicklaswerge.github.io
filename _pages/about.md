@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Laboratory for Probability, Statistics and Modeling ([LPSM](https://www.lpsm.paris "LPSM")), Sorbonne University, under the supervision of [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr) and [Olivier Wintenberger](http://wintenberger.fr). 
+I am a Ph.D. student at the Laboratory for Probability, Statistics and Modeling ([LPSM](https://www.lpsm.paris "LPSM")), Sorbonne University, under the supervision of [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr) and [Olivier Wintenberger](http://wintenberger.fr). During the first year of my Ph.D. I worked part-time at Advestis as an AI Research Scientist. I received my master's degree in mathematics-economics at the University of Copenhagen in 2016, with Olivier Wintenberger as my supervisor. After my master's, I was at Nordea Asset Management for three years as a quantitative analyst.
 
 ## Research interest
-I am interested in statistical machine learning, and especially online learning and stochastic optimization.
+I am interested in statistical machine learning, and especially online learning and stochastic algorithms.
 
