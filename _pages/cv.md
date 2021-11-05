@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D. in Statistics, Sorbonne Université, 2019-2022 (expected)
-  * Supervisor: [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr "Antoine Godichon-Baggioni") and [Olivier Wintenberger](http://wintenberger.fr "Olivier Wintenberger")
+  * Supervisors: [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr "Antoine Godichon-Baggioni") and [Olivier Wintenberger](http://wintenberger.fr "Olivier Wintenberger")
 * M.S. in Mathematics-Economics, University of Copenhagen, 2014-2016
   * Supervisor: Olivier Wintenberger 
 * B.S. in Mathematics-Economics, University of Copenhagen, 2011-2014
