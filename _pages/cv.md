@@ -21,21 +21,14 @@ redirect_from:
 * Quantitative Analyst, Nordea Asset Management, 2016-2019
 * Teaching Assistent, University of Copenhagen, 2015-2016
 
-## Research Management
+## Research management
 * Reviewer, Econometrics and Statistics, 2021-
 * Reviewer, Expert Systems with Applications, 2021-
+  
+## Teaching assistance
+* Introduction to Numerical Analysis (NumIntro), University of Copenhagen, 2015/2016
+* Probability Theory and Statistics (SS), University of Copenhagen, 2015/2016
 
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Talks and presentations
+* Talk at VALPRED 3 Workshop on "Prediction and Validation", 2021
+* Talk at CIRM Conference on "New Results on Time Series and their Statistical Applications", 2020
