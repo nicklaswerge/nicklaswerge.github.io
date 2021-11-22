@@ -30,5 +30,6 @@ redirect_from:
 * Probability Theory and Statistics (SS), University of Copenhagen, 2015/2016
 
 ## Talks and presentations
-* Talk at VALPRED 3 Workshop on "Prediction and Validation", 2021
-* Talk at CIRM Conference on "New Results on Time Series and their Statistical Applications", 2020
+* Talk at [DeLTA Lab](https://sites.google.com/diku.edu/delta) "Denmark Learning Theory and Applications, 2021
+* Talk at [VALPRED](https://wintenberger.fr/VALPRED.html) 3 Workshop on "Prediction and Validation", 2021
+* Talk at [CIRM](https://www.cirm-math.com) Conference on "New Results on Time Series and their Statistical Applications", 2020
