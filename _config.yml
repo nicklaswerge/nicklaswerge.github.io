@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicklas Werge"
 title_separator          : "-"
 name                     : &name "Nicklas Werge"
-description              : &description "Ph.D. student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
+description              : &description "Ph.D. student at LPSM, Sorbonne Université"
 url                      : https://nicklaswerge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicklaswerge/nicklaswerge.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicklas Werge"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student at Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Sorbonne Université"
+  bio              : "Ph.D. student at LPSM, Sorbonne Université"
   location         : "Paris, France"
   employer         :
   pubmed           : 
