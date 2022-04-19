@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en "Nicklas Werge") 
 
 ## Preprints
-* A. Godichon-Baggioni, N. Werge, and O. Wintenberger (2021). *Non-Asymptotic Analysis of Stochastic Approximation Algorithms for Streaming Data*. [arXiv preprint](https://arxiv.org/abs/2109.07117).
+* A. Godichon-Baggioni, N. Werge, and O. Wintenberger (2022). *Non-Asymptotic Analysis of Stochastic Approximation Algorithms for Streaming Data*. [arXiv preprint](https://arxiv.org/abs/2109.07117).
 
 ## Publications
 * N. Werge and O. Wintenberger (2022). *AdaVol: An Adaptive Recursive Volatility Prediction Method*. Econometrics and Statistics 23, 19-35. [arXiv preprint](https://arxiv.org/abs/2006.02077). [publisher link](https://www.sciencedirect.com/science/article/pii/S2452306221000113?casa_token=4RQmi4UcJGgAAAAA:NW73xC2SFQ4awJ0f4jlBCQPm7BBECxD5zo_iiB37RbOPsVDCuZjnRejhqE4iXg-ddlmfVkUE_mA).
