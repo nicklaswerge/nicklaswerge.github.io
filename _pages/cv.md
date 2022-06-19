@@ -31,6 +31,6 @@ redirect_from:
 ## Talks and presentations
 * Talk at [JDS'22](https://jds22.sciencesconf.org) "53èmes Journées de Statistique de la Société Française de Statistique (SFdS)", 2022
 * Poster at [VieCo](https://eventsignup.ku.dk/vieco2022/conference) "Vienna–Copenhagen Conference on Financial Econometrics", 2022
-* Talk at [DeLTA Lab](https://sites.google.com/diku.edu/delta) "Denmark Learning Theory and Applications, 2021
+* Talk at [DeLTA Lab](https://sites.google.com/diku.edu/delta) "Denmark Learning Theory and Applications", 2021
 * Talk at [VALPRED](https://wintenberger.fr/VALPRED.html) 3 Workshop on "Prediction and Validation", 2021
 * Talk at [CIRM](https://www.cirm-math.com) Conference on "New Results on Time Series and their Statistical Applications", 2020
