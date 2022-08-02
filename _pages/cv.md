@@ -25,8 +25,8 @@ redirect_from:
 * Reviewer, Expert Systems with Applications, 2021-
   
 ## Teaching assistance
-* Introduction to Numerical Analysis, University of Copenhagen, 2015/2016
-* Probability Theory and Statistics, University of Copenhagen, 2015/2016
+* Introduction to Numerical Analysis, University of Copenhagen, 2015-2016
+* Probability Theory and Statistics, University of Copenhagen, 2015-2016
 
 ## Talks and presentations
 * Talk at [JDS'22](https://jds22.sciencesconf.org) "53èmes Journées de Statistique de la Société Française de Statistique (SFdS)", 2022
