@@ -16,6 +16,7 @@ redirect_from:
 * B.S. in Mathematics-Economics, University of Copenhagen, 2011-2014
 
 ## Work experience
+<!-- * Postdoctoral researcher, University of Southern Denmark, 2022- -->
 * AI Research Scientist, Advestis, 2019-2020
 * Quantitative Analyst, Nordea Asset Management, 2016-2019
 * Teaching Assistent, University of Copenhagen, 2015-2016
