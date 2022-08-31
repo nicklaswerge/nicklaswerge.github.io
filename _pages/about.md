@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nicklas Werge"
+title: "Nicklas"
 excerpt: "Nicklas Werge"
 author_profile: true
 redirect_from: 
