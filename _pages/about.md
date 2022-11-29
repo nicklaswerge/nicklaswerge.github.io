@@ -12,4 +12,4 @@ I am a postdoc in the Data Science and Statistics ([DSS](https://dss.sdu.dk)) Gr
 <br /> I did my Ph.D. at the Laboratory for Probability, Statistics, and Modeling ([LPSM](https://www.lpsm.paris)), Sorbonne Université, under the supervision of [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr) and [Olivier Wintenberger](http://wintenberger.fr); here you can find my [manuscript](/files/thesis_werge.pdf) and [slides](/files/thesis_slides_werge.pdf). During the first year of my Ph.D., I also worked part-time at [Advestis](https://www.advestis.com) as an AI Research Scientist.
 
 ## Research interest
-I am interested in machine learning and statistics for time series, especially online learning and stochastic algorithms.
+I am interested in machine learning and statistics for time series, especially online learning, reinforcement learning and stochastic algorithms.
