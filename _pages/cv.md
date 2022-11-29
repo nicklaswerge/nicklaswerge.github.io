@@ -22,11 +22,11 @@ redirect_from:
 * B.S. in Mathematics-Economics, University of Copenhagen, 2011-2014
 
 ## Research management
-* Reviewer, Econometrics and Statistics ([ECOSTA](https://www.sciencedirect.com/journal/econometrics-and-statistics)), 2021-
-* Reviewer, Expert Systems With Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)), 2021-
 * Reviewer, Artificial Intelligence and Statistics ([AISTATS](https://aistats.org)), 2023
 * Reviewer, Transactions on Machine Learning Research ([TMLR](https://www.jmlr.org/tmlr/)), 2022-
-  
+* Reviewer, Econometrics and Statistics ([ECOSTA](https://www.sciencedirect.com/journal/econometrics-and-statistics)), 2021-
+* Reviewer, Expert Systems With Applications ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)), 2021-
+
 ## Teaching assistance
 * Introduction to Numerical Analysis, University of Copenhagen, 2015-2016
 * Probability Theory and Statistics, University of Copenhagen, 2015-2016
