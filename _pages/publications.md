@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en "Nicklas Werge") 
 
 ## Preprints
+* N. Werge, A. Akgül, and M. Kandemir (2023). *BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits*. [arXiv](https://arxiv.org/abs/2307.03587).
 * A. Godichon-Baggioni, N. Werge, and O. Wintenberger (2022). *Learning from time-dependent streaming data with online stochastic algorithms*. [arXiv](https://arxiv.org/abs/2205.12549). [HAL](https://hal.archives-ouvertes.fr/hal-03677328v1).
 
 ## Publications
