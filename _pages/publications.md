@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en "Nicklas Werge") 
 
 ## Preprints
+* A. Dutta, E. H. Bergou, S. Boucherouite, N. Werge, M. Kandemir, X. Li (2023). *Demystifying the Myths and Legends of Nonconvex Convergence of SGD*. [arXiv](https://arxiv.org/abs/2310.12969).
 * N. Werge, A. Akgül, and M. Kandemir (2023). *BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits*. [arXiv](https://arxiv.org/abs/2307.03587).
 
 ## Publications
