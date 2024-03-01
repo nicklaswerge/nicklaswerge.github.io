@@ -12,6 +12,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * A. Godichon-Baggioni and N. Werge (2023). *On Adaptive Stochastic Optimization for Streaming Data: A Newton's Method with O(dN) Operations*. [arXiv](https://arxiv.org/abs/2311.17753).
 * A. Dutta, E. H. Bergou, S. Boucherouite, N. Werge, M. Kandemir, and X. Li (2023). *Demystifying the Myths and Legends of Nonconvex Convergence of SGD*. [arXiv](https://arxiv.org/abs/2310.12969).
 * N. Werge, A. Akgül, and M. Kandemir (2023). *BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits*. [arXiv](https://arxiv.org/abs/2307.03587).
+* J. de Vilmarest and N. Werge (2023). *An adaptive volatility method for probabilistic forecasting and its application to the M6 financial forecasting competition*. [arXiv](https://arxiv.org/abs/2303.01855).
 
 ## Publications
 * A. Godichon-Baggioni, N. Werge, and O. Wintenberger (2023). *Learning from time-dependent streaming data with online stochastic algorithms*. Transactions on Machine Learning Research (TMLR). [arXiv](https://arxiv.org/abs/2205.12549). [HAL](https://hal.archives-ouvertes.fr/hal-03677328v1). [publisher link](https://openreview.net/forum?id=kdfiEu1ul6).
