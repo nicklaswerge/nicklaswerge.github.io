@@ -26,9 +26,10 @@ redirect_from:
 * Reviewer, Transactions on Machine Learning Research ([TMLR](https://www.jmlr.org/tmlr/)), 2022-
 * Reviewer, Econometrics and Statistics ([ECOSTA](https://www.sciencedirect.com/journal/econometrics-and-statistics)), 2021-
 
-## Teaching assistance
-* Introduction to Numerical Analysis, University of Copenhagen, 2015-2016
-* Probability Theory and Statistics, University of Copenhagen, 2015-2016
+## Teaching
+* Guest Lecturer, Reinforcement Learning, University of Southern Denmark, 2024
+* Teaching Assistent, Introduction to Numerical Analysis, University of Copenhagen, 2015-2016
+* Teaching Assistent, Probability Theory and Statistics, University of Copenhagen, 2015-2016
 
 ## Supervision
 * Bi Yun Chen, Model selection as a multi-armed bandit problem in continual learning, 2023
