@@ -22,6 +22,7 @@ redirect_from:
 * B.S. in Mathematics-Economics, University of Copenhagen, 2011-2014
 
 ## Research management
+* Reviewer, International Journal of Forecasting ([IJF](https://www.sciencedirect.com/journal/international-journal-of-forecasting)), 2024-
 * Reviewer, Artificial Intelligence and Statistics ([AISTATS](https://aistats.org)), 2023
 * Reviewer, Transactions on Machine Learning Research ([TMLR](https://www.jmlr.org/tmlr/)), 2022-
 * Reviewer, Econometrics and Statistics ([ECOSTA](https://www.sciencedirect.com/journal/econometrics-and-statistics)), 2021-
