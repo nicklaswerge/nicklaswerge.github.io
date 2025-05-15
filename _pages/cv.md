@@ -21,6 +21,10 @@ redirect_from:
 * M.S. in Mathematics-Economics, University of Copenhagen, 2014-2016
 * B.S. in Mathematics-Economics, University of Copenhagen, 2011-2014
 
+## Grants/Funding
+* Research Grant, Région Île-de-France, France (100.000 euro, Grant No. 19006497)
+  * Topic: *Convergence properties of online mini-batch stochastic algorithms for non-convex optimization*
+
 ## Research management
 * Reviewer, International Journal of Forecasting ([IJF](https://www.sciencedirect.com/journal/international-journal-of-forecasting)), 2024-
 * Reviewer, Artificial Intelligence and Statistics ([AISTATS](https://aistats.org)), 2023
@@ -28,14 +32,18 @@ redirect_from:
 * Reviewer, Econometrics and Statistics ([ECOSTA](https://www.sciencedirect.com/journal/econometrics-and-statistics)), 2021-
 
 ## Teaching
-* Guest Lecturer, Reinforcement Learning, University of Southern Denmark, 2024
+* Guest Lecturer, Reinforcement Learning, University of Southern Denmark, 2024-
 * Teaching Assistent, Introduction to Numerical Analysis, University of Copenhagen, 2015-2016
 * Teaching Assistent, Probability Theory and Statistics, University of Copenhagen, 2015-2016
 
 ## Supervision
+* Kasper Veje Jakobsen, Financial analysis with deep reinforcement learning, 2025
 * Bi Yun Chen, Model selection as a multi-armed bandit problem in continual learning, 2023
 
 ## Talks and presentations
+* Poster at 17th European Workshop on Reinforcement Learning, 2024
+* Talk at D3A 2.0, Danish Digitalization, Data Science and AI, 2024 (invited talk)
+* Talk at ATP about ML/AI in finance, 2024 (invited talk)
 * Talk at [DSS](https://dss.sdu.dk), Data Science and Statistics group seminar, 2022
 * Talk at [JDS'22](https://jds22.sciencesconf.org), 53èmes Journées de Statistique de la Société Française de Statistique (SFdS), 2022
 * Poster at [VieCo](https://eventsignup.ku.dk/vieco2022/conference), Vienna–Copenhagen Conference on Financial Econometrics, 2022
