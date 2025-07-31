@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Preprints
 * G. Baykal, A. Akgül, M. Haussmann, B. Tasdighi, N. Werge, Y.-S. Wu, M. Kandemir (2025). *ObjectRL: An Object-Oriented Reinforcement Learning Codebase*. [arXiv](https://arxiv.org/abs/2507.03487). [GitHub](https://github.com/adinlab/objectrl).
-* B. Tasdighi, N. Werge, Y.-S. Wu, and M. Kandemir (2025). *Directional Ensemble Aggregation for Actor-Critics*.
+* N. Werge, Y.-S. Wu, B. Tasdighi, and M. Kandemir (2025). *Directional Ensemble Aggregation for Actor-Critics*.
 * N. Werge, A. Akgül, and M. Kandemir (2023). *BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits*. [arXiv](https://arxiv.org/abs/2307.03587).
 * A. Dutta, EH. Bergou, S. Boucherouite, N. Werge, M. Kandemir, and X. Li (2023). *Demystifying the Myths and Legends of Nonconvex Convergence of SGD*. [arXiv](https://arxiv.org/pdf/2310.12969).
 
