@@ -8,12 +8,14 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en "Nicklas Werge") 
 
 ## Preprints
-* B. Tasdighi, N. Werge, Y.-S. Wu, and M. Kandemir (2024). *Exploring Pessimism and Optimism Dynamics in Deep Reinforcement Learning*. [arXiv](https://arxiv.org/abs/2406.03890).
-* B. Tasdighi, N. Werge, Y.-S. Wu, and M. Kandemir (2024). *Probabilistic Actor-Critic: Learning to Explore with PAC-Bayes Uncertainty*. [arXiv](https://arxiv.org/abs/2402.03055).
+* G. Baykal, A. Akgül, M. Haussmann, B. Tasdighi, N. Werge, Y.-S. Wu, M. Kandemir (2025). *ObjectRL: An Object-Oriented Reinforcement Learning Codebase*. [arXiv](https://arxiv.org/abs/2507.03487). [GitHub](https://github.com/adinlab/objectrl).
+* B. Tasdighi, N. Werge, Y.-S. Wu, and M. Kandemir (2025). *Directional Ensemble Aggregation for Actor-Critics*.
 * N. Werge, A. Akgül, and M. Kandemir (2023). *BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits*. [arXiv](https://arxiv.org/abs/2307.03587).
 * A. Dutta, EH. Bergou, S. Boucherouite, N. Werge, M. Kandemir, and X. Li (2023). *Demystifying the Myths and Legends of Nonconvex Convergence of SGD*. [arXiv](https://arxiv.org/pdf/2310.12969).
 
 ## Publications
+* B. Tasdighi, N. Werge, Y.-S. Wu, and M. Kandemir (2025). *Improving Actor-Critic Training with Steerable Action-Value Approximation Errors*. European Conference on Artificial Intelligence (ECAI). [arXiv](https://arxiv.org/abs/2406.03890). In press.
+* B. Tasdighi,  M. Haussmann, N. Werge, Y.-S. Wu, and M. Kandemir (2025). *Deep exploration with PAC-Bayes*. European Conference on Artificial Intelligence (ECAI). [arXiv](https://arxiv.org/abs/2402.03055). In press.
 * A. Godichon-Baggioni and N. Werge (2025). *On Adaptive Stochastic Optimization for Streaming Data: A Newton's Method with O(dN) Operations*. Journal on Machine Learning Research (JMLR). [arXiv](https://arxiv.org/abs/2311.17753). [publisher link](https://www.jmlr.org/papers/volume26/23-1565/23-1565.pdf).
 * J. de Vilmarest and N. Werge (2024). *An adaptive volatility method for probabilistic forecasting and its application to the M6 financial forecasting competition*. International Journal of Forecasting (IJF). [arXiv](https://arxiv.org/abs/2303.01855). [publisher link](https://authors.elsevier.com/sd/article/S0169-2070(24)00055-4).
 * A. Godichon-Baggioni, N. Werge, and O. Wintenberger (2023). *Learning from time-dependent streaming data with online stochastic algorithms*. Transactions on Machine Learning Research (TMLR). [arXiv](https://arxiv.org/abs/2205.12549). [HAL](https://hal.archives-ouvertes.fr/hal-03677328v1). [publisher link](https://openreview.net/forum?id=kdfiEu1ul6).
