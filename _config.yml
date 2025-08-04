@@ -84,12 +84,12 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Postdoc at Department of Mathematics and Computer Science (IMADA), University of Southern Denmark (SDU)"
   location         : "Copenhagen, Denmark"
-  employer         :
+  employer         : "SDU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en"
   email            : "werge@sdu.dk"
-  researchgate     : "https://www.researchgate.net/profile/Nicklas-Werge"
-  semanticscholar  : "https://www.semanticscholar.org/author/Nicklas-Werge/1736536079"
+  researchgate     :
+  semanticscholar  :
   arxiv            : "https://arxiv.org/a/werge_n_1.html"
   uri              :
   bitbucket        :
