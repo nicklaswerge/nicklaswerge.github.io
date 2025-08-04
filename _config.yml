@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Postdoc at Department of Mathematics and Computer Science (IMADA), University of Southern Denmark (SDU)"
   location         : "Copenhagen, Denmark"
-  employer         : "SDU"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ixNlWUAAAAJ&hl=en"
   email            : "werge@sdu.dk"
