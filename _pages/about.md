@@ -13,7 +13,8 @@ I am a postdoc in machine learning theory at the Department of Mathematics and C
 I did my Ph.D. in statistics at the Laboratory for Probability, Statistics, and Modeling ([LPSM](https://www.lpsm.paris)), Sorbonne Université, under the supervision of [Antoine Godichon-Baggioni](http://godichon.perso.math.cnrs.fr) and [Olivier Wintenberger](http://wintenberger.fr); here you can find my [manuscript](/files/thesis_werge.pdf) and [slides](/files/thesis_slides_werge.pdf). During the first year of my Ph.D., I also worked part-time at [Advestis](https://www.advestis.com) as an AI Research Scientist.
 
 ## Research interest
-My main research focus on statistical learning theory, with an emphasis on developing adaptive learning methods for sequential decision-making under uncertainty in dynamic environments. Specifically, I delve into the realm of stochastic optimization, reinforcement learning, and bandit problems.
+My research focuses on statistical learning theory, with an emphasis on developing adaptive methods for sequential decision-making across stochastic optimization, reinforcement learning, and bandits.
+
 
 ## Ongoing work
-Currently, I am working on adaptive algorithms for continual sequential decision-making that, across stochastic optimization, reinforcement learning, and bandits, learn under real-world dynamics such as non-stationarity, distributional shifts, delays, heavy-tailed noise, and biases.
+Currently, I am working on adaptive algorithms for continual sequential decision-making that learn under real-world dynamics such as non-stationarity, distributional shifts, delays, heavy-tailed noise, and biases.
