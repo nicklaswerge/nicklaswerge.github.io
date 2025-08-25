@@ -14,3 +14,6 @@ I did my Ph.D. in statistics at the Laboratory for Probability, Statistics, and 
 
 ## Research interest
 My main research focus on statistical learning theory, with an emphasis on developing adaptive learning methods for sequential decision-making under uncertainty in dynamic environments. Specifically, I delve into the realm of stochastic optimization, reinforcement learning, and bandit problems.
+
+## Ongoing work
+Currently, I am working on adaptive algorithms for continual sequential decision-making that, across stochastic optimization, reinforcement learning, and bandits, learn under real-world dynamics such as non-stationarity, distributional shifts, delays, heavy-tailed noise, and biases.
